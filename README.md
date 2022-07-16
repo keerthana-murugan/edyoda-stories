@@ -1,4 +1,4 @@
 # edyoda-stories
 grid and flex concepts
 
-https://codepen.io/lady_king/full/yLbpMYX
+Demo: https://edyoda-stories-demo.netlify.app/
